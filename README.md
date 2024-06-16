@@ -90,12 +90,6 @@ Here are some screenshots of the website:
 ### Full Website
 ![Full website](screenshots/jadoo_website.png)
 
-### Full Website On Tablet
-![Full website On Tablet](screenshots/jadoo_website_tabletMode.png)
-
-### Full Website On Moblie
-![Full website On Moblie](screenshots/jadoo_website_mobileMode.png)
-
 ## Contributing
 
 We welcome contributions! Please follow these steps:
