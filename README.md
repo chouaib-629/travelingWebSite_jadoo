@@ -14,6 +14,7 @@ Jadoo is a stylish and modern travel website template designed to showcase and o
 - [Contact Information](#contact-information)
 
 ## Features
+
 - Responsive design for all devices
 - Informative home section with a call to action
 - Detailed flight services section
@@ -23,40 +24,53 @@ Jadoo is a stylish and modern travel website template designed to showcase and o
 - Social media links
 
 ## Technologies Used
+
 - HTML
 - CSS
 - JavaScript
 - Boxicons (for icons)
 
 ## Getting Started
+
 ### Prerequisites
+
 To view and edit this project, you'll need:
+
 - A web browser (e.g., Chrome, Firefox, Safari)
 - A text editor or IDE (e.g., VS Code, Sublime Text)
 
 ### Installation
+
 1. Clone the repository:
+
     ```sh
     git clone https://github.com/chouaib-629/travelingWebSite_jadoo.git
     ```
+
 2. Navigate to the project directory:
+
     ```sh
     cd travelingWebSite_jadoo
     ```
 
 ### Usage
+
 1. Open `index.html` in your web browser to view the website.
 2. To make changes, open the project files in your text editor.
 
 ## File Structure
+
 - `index.html` - Main HTML file containing the website structure.
 - `style.css` - CSS file for styling the website.
 - `script.js` - JavaScript file for interactive functionality.
 - `images/` - Directory containing image assets.
 
 ## Customization
+
 ### Logo
+
 Replace the logo image in the `images` directory with your own logo and update the `<img>` tag in the `header` section of `index.html`:
+
 ```html
 <a href="#" class="logo">
     <img src="images/logo.png" alt="logo" />
@@ -64,7 +78,9 @@ Replace the logo image in the `images` directory with your own logo and update t
 ```
 
 ### Background Image
+
 Replace the background image in the `images` directory with your own image and update the `background-image` property in `style.css`:
+
 ```css
 body {
     background-image: url(images/background.jpg);
@@ -74,7 +90,9 @@ body {
 ```
 
 ### Social Media Links
+
 Update the social media links in the footer section of `index.html`:
+
 ```html
 <div class="social-links">
     <a href="https://facebook.com">Facebook</a>
@@ -88,6 +106,9 @@ Update the social media links in the footer section of `index.html`:
 Here are some screenshots of the website:
 
 ### Full Website
+
+You can view the website in your browser by clicking [Demo](https://demo-travelling-website.netlify.app)
+
 ![Full website](screenshots/jadoo_website.png)
 
 ## Contributing
@@ -102,4 +123,4 @@ Open a Pull Request.
 
 ## Contact Information
 
-For questions or support, please contact [Me](mailto:chouaiba629@gmail.com).
+For questions or support, please contact [Me](mailto:chouaiba629@gmail.com)
